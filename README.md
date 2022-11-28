@@ -4,7 +4,7 @@
 
 Implementazione di CoolProp su Excel per sistemi MacOs basati su Apple Silicon.
 
-Questa guida è destinata in primo luogo a tutti gli studenti che frequentano il corso di ingegneria POLIMI per far funzionare CoolProp in Excel direttamente su MacOs.
+Questa guida è destinata in primo luogo a tutti gli studenti che frequentano il corso di ingegneria al POLIMI per far funzionare CoolProp in Excel direttamente su MacOs.
 
 Dal momento che esiste già un post su reddit fatto da me su questo argomento, sentitevi liberi di lasciare un commento se avete problemi.
 Ho fatto del mio meglio per essere il più dettagliato possibile durante tutta la procedura.
